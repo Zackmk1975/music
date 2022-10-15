@@ -31,19 +31,19 @@ $(function () {
     tFlag = false,
     albums = [
       "Dawn",
-      "Me & You",
+      "MONO",
       "Electro Boy",
       "Home",
       "Proxy (Original Mix)",
-      "DỄ ĐẾN DỄ ĐI - Hibiki Du Ca Cover ft. Hori"
+      "DỄ ĐẾN DỄ ĐI"
     ],
     trackNames = [
       "Skylike - Dawn",
-      "Alex Skrindo - Me & You",
+      "MONO - Waiting For You",
       "Kaaze - Electro Boy",
       "Jordan Schor - Home",
       "Martin Garrix - Proxy",
-      "DỄ ĐẾN DỄ ĐI - Hibiki Du Ca Cover ft. Hori"
+      "Hibiki Du Ca Cover ft. Hori"
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5","_6"],
     trackUrl = [
@@ -52,7 +52,7 @@ $(function () {
       "https://raw.githubusercontent.com/Zackmk1975/music/master/music/3.mp3",
       "https://raw.githubusercontent.com/Zackmk1975/music/master/music/4.mp3",
       "https://raw.githubusercontent.com/Zackmk1975/music/master/music/5.mp3",
-      "https://raw.githubusercontent.com/Zackmk1975/music/master/music/music1.mp3"
+      "https://raw.githubusercontent.com/Zackmk1975/music/master/music/6.mp3"
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
