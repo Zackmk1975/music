@@ -31,7 +31,7 @@ $(function () {
     tFlag = false,
     albums = [
       "Dawn",
-      "MONO",
+      "Waiting For You",
       "Electro Boy",
       "Home",
       "Proxy (Original Mix)",
