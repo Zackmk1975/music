@@ -291,7 +291,7 @@ body {
 
 .button i {
   display: block;
-  color: #d6dee7;
+  color: #7f8286;
   font-size: 26px;
   text-align: center;
   line-height: 1;
@@ -303,7 +303,7 @@ body {
 }
 
 .button:hover {
-  background-color: #d6d6de;
+  background-color: #7f8286;
 }
 
 .button:hover i {
